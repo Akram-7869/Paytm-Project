@@ -1,0 +1,9 @@
+{
+    "builds": [
+      {
+        "src": "apps/bank-webhook",
+        "use": "@railway/buildpack-node"
+      }
+    ]
+  }
+  
